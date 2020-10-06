@@ -1,2 +1,2 @@
-# recognise-api
-API for Face Recognition
+# recognise-desktop
+Face Recognition Desktop (Python) Version
