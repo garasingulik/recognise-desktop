@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Don't commit images
+blob/train/**
+blob/test/**.jpg
+
+# Don't commit models
+models/*.clf
